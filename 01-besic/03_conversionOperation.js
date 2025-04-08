@@ -16,3 +16,16 @@ let somenumber=30
 let stringnumber=String(somenumber)
 console.log(somenumber);
 console.log(typeof stringnumber);
+//******************************************operation*******************************//
+let value=3
+let nagvalue=-(value)
+console.log(nagvalue)
+
+let str1="Anirban"
+let str2=" Parya"
+let str3=str1+str2
+console.log(str3);
+console.log("02">1)
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
